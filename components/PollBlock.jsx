@@ -1,0 +1,1 @@
+// PollBlock component for engagement
